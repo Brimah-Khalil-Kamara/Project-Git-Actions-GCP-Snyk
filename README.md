@@ -1,1 +1,1 @@
-# Project-Git-Actions-GCP-Snyk
+# Project-SNYK-IAC-Security-Automation
